@@ -1,7 +1,7 @@
 # Python for beginner
 
-Python is an interpreted, object-oriented, high-level programming language.
-
+What is Python programming language
+Python is a high-level, general-purpose, interpreted programming language.
 
 ## Installation
 
