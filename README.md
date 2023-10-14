@@ -1,6 +1,6 @@
 # Python for beginner
 
-What is Python programming language
+### What is Python programming language
 Python is a high-level, general-purpose, interpreted programming language.
 
 ## Installation
