@@ -1,11 +1,7 @@
-'''
-i = 1
-while i <= 6:
-  print(i)
-  i += 1
-  '''
-import datetime
+max = 10
+counter = 0
 
-x = datetime.datetime.now()
-print(x) 
+while counter <= max : 
+  print("num count ", counter)
+  counter += 1
 
